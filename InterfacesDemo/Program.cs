@@ -2,13 +2,13 @@
 
 namespace InterfacesDemo
 {
-    // Interface IMovable with Move method
+   
     public interface IMovable
     {
         void Move();
     }
 
-    // Additional interface to demonstrate multiple interface implementation
+  
     public interface IVehicle
     {
         void Start();
@@ -16,7 +16,7 @@ namespace InterfacesDemo
         string GetVehicleType();
     }
 
-    // Car class that implements IMovable and IVehicle interfaces
+   
     public class Car : IMovable, IVehicle
     {
         private string brand;
@@ -28,7 +28,7 @@ namespace InterfacesDemo
             this.isRunning = false;
         }
 
-        // Implementation of IMovable.Move()
+       
         public void Move()
         {
             if (isRunning)
@@ -41,28 +41,27 @@ namespace InterfacesDemo
             }
         }
 
-        // Implementation of IVehicle.Start()
+    
         public void Start()
         {
             isRunning = true;
             Console.WriteLine($"{brand} car engine started");
         }
 
-        // Implementation of IVehicle.Stop()
+      
         public void Stop()
         {
             isRunning = false;
             Console.WriteLine($"{brand} car engine stopped");
         }
 
-        // Implementation of IVehicle.GetVehicleType()
+      
         public string GetVehicleType()
         {
             return $"{brand} Car";
         }
     }
 
-    // Bicycle class that implements IMovable interface
     public class Bicycle : IMovable
     {
         private string type;
@@ -72,7 +71,7 @@ namespace InterfacesDemo
             this.type = type;
         }
 
-        // Implementation of IMovable.Move()
+      
         public void Move()
         {
             Console.WriteLine("Bicycle is moving");
@@ -84,7 +83,7 @@ namespace InterfacesDemo
         }
     }
 
-    // Additional class to demonstrate interface usage
+   
     public class Airplane : IMovable, IVehicle
     {
         private string model;
@@ -138,12 +137,12 @@ namespace InterfacesDemo
             Console.WriteLine("=== Interfaces Demo ===");
             Console.WriteLine();
 
-            // Create instances of Car and Bicycle
+          
             Car myCar = new Car("Toyota");
             Bicycle myBicycle = new Bicycle("Mountain");
             Airplane myPlane = new Airplane("Boeing 737");
 
-            // Demonstrate basic interface usage
+           
             Console.WriteLine("--- Basic Interface Usage ---");
             
             Console.WriteLine($"Vehicle: {myCar.GetVehicleType()}");
@@ -167,11 +166,10 @@ namespace InterfacesDemo
 
             Console.WriteLine();
 
-            // Demonstrate polymorphism with interfaces
             Console.WriteLine("--- Polymorphism with Interfaces ---");
             IMovable[] movableObjects = { myCar, myBicycle, myPlane };
 
-            // Start vehicles that can be started
+           
             myCar.Start();
             myPlane.Start();
             myPlane.TakeOff();

@@ -1,0 +1,15 @@
+j:\lev300\programmingII\assignment1\InterfacesDemo\bin\Debug\net9.0\InterfacesDemo.exe
+j:\lev300\programmingII\assignment1\InterfacesDemo\bin\Debug\net9.0\InterfacesDemo.deps.json
+j:\lev300\programmingII\assignment1\InterfacesDemo\bin\Debug\net9.0\InterfacesDemo.runtimeconfig.json
+j:\lev300\programmingII\assignment1\InterfacesDemo\bin\Debug\net9.0\InterfacesDemo.dll
+j:\lev300\programmingII\assignment1\InterfacesDemo\bin\Debug\net9.0\InterfacesDemo.pdb
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\InterfacesDemo.AssemblyInfoInputs.cache
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\InterfacesDemo.AssemblyInfo.cs
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\InterfacesDemo.sourcelink.json
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\InterfacesDemo.dll
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\refint\InterfacesDemo.dll
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\InterfacesDemo.pdb
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\InterfacesDemo.genruntimeconfig.cache
+j:\lev300\programmingII\assignment1\InterfacesDemo\obj\Debug\net9.0\ref\InterfacesDemo.dll

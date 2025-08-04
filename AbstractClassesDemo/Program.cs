@@ -2,20 +2,20 @@
 
 namespace AbstractClassesDemo
 {
-    // Abstract base class Shape
+   
     public abstract class Shape
     {
-        // Abstract method that must be implemented by derived classes
+       
         public abstract double GetArea();
 
-        // Non-abstract method that can be used by all derived classes
+       
         public virtual void DisplayInfo()
         {
             Console.WriteLine($"This is a shape with area: {GetArea():F2}");
         }
     }
 
-    // Derived class Circle that implements the abstract GetArea method
+    
     public class Circle : Shape
     {
         private double radius;
@@ -31,7 +31,7 @@ namespace AbstractClassesDemo
             set { radius = value; } 
         }
 
-        // Implementation of abstract method GetArea
+        
         public override double GetArea()
         {
             return Math.PI * radius * radius;
@@ -43,7 +43,6 @@ namespace AbstractClassesDemo
         }
     }
 
-    // Derived class Rectangle that implements the abstract GetArea method
     public class Rectangle : Shape
     {
         private double width;
@@ -67,7 +66,7 @@ namespace AbstractClassesDemo
             set { height = value; } 
         }
 
-        // Implementation of abstract method GetArea
+      
         public override double GetArea()
         {
             return width * height;
@@ -86,7 +85,7 @@ namespace AbstractClassesDemo
             Console.WriteLine("=== Abstract Classes and Methods Demo ===");
             Console.WriteLine();
 
-            // Create instances of Circle and Rectangle
+           
             Circle myCircle = new Circle(5.0);
             Rectangle myRectangle = new Rectangle(4.0, 6.0);
 
@@ -97,7 +96,7 @@ namespace AbstractClassesDemo
 
             Console.WriteLine();
 
-            // Demonstrate polymorphism with abstract class
+           
             Console.WriteLine("--- Polymorphism with Abstract Classes ---");
             Shape[] shapes = { new Circle(3.0), new Rectangle(2.5, 4.0), new Circle(7.2) };
 

@@ -5,14 +5,14 @@ namespace InheritanceDemo
     // Base class Animal
     public class Animal
     {
-        // Virtual method that can be overridden by derived classes
+     
         public virtual void MakeSound()
         {
             Console.WriteLine("Some generic sound");
         }
     }
 
-    // Derived class Dog that inherits from Animal
+   
     public class Dog : Animal
     {
         // Override the MakeSound method
@@ -22,7 +22,7 @@ namespace InheritanceDemo
         }
     }
 
-    // Derived class Cat that inherits from Animal
+   
     public class Cat : Animal
     {
         // Override the MakeSound method
