@@ -1,0 +1,15 @@
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.exe
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.deps.json
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.runtimeconfig.json
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.dll
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.pdb
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfo.cs
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.sourcelink.json
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.dll
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\refint\FinanceManagementSystem.dll
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.pdb
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.genruntimeconfig.cache
+J:\lev300\programmingII\assignment1\FinanceManagementSystem\obj\Debug\net9.0\ref\FinanceManagementSystem.dll
