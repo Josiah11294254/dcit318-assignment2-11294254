@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "quantity": 25,
+    "dateAdded": "2025-07-28T14:04:07.0322361+00:00"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Keyboard",
+    "quantity": 15,
+    "dateAdded": "2025-07-30T14:04:07.0331081+00:00"
+  },
+  {
+    "id": 3,
+    "name": "USB-C Cable",
+    "quantity": 100,
+    "dateAdded": "2025-08-02T14:04:07.0332179+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Mouse",
+    "quantity": 30,
+    "dateAdded": "2025-08-04T14:04:07.0333404+00:00"
+  },
+  {
+    "id": 5,
+    "name": "Tablet Stand",
+    "quantity": 20,
+    "dateAdded": "2025-08-06T14:04:07.0334819+00:00"
+  }
+]

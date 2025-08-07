@@ -1,0 +1,15 @@
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\bin\Debug\net9.0\InventoryRecordsSystem.exe
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\bin\Debug\net9.0\InventoryRecordsSystem.deps.json
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\bin\Debug\net9.0\InventoryRecordsSystem.runtimeconfig.json
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\bin\Debug\net9.0\InventoryRecordsSystem.dll
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\bin\Debug\net9.0\InventoryRecordsSystem.pdb
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\InventoryRecordsSystem.GeneratedMSBuildEditorConfig.editorconfig
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\InventoryRecordsSystem.AssemblyInfoInputs.cache
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\InventoryRecordsSystem.AssemblyInfo.cs
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\InventoryRecordsSystem.csproj.CoreCompileInputs.cache
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\InventoryRecordsSystem.sourcelink.json
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\InventoryRecordsSystem.dll
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\refint\InventoryRecordsSystem.dll
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\InventoryRecordsSystem.pdb
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\InventoryRecordsSystem.genruntimeconfig.cache
+j:\lev300\programmingII\assignment1\InventoryRecordsSystem\obj\Debug\net9.0\ref\InventoryRecordsSystem.dll

@@ -14,14 +14,6 @@ namespace InventoryRecordsSystem
     // a. Immutable Inventory Record using positional syntax
     public record InventoryItem(int Id, string Name, int Quantity, DateTime DateAdded) : IInventoryEntity;
 
-    // Alternative property-based syntax (commented for reference):
-    // public record InventoryItem : IInventoryEntity
-    // {
-    //     public int Id { get; init; }
-    //     public string Name { get; init; }
-    //     public int Quantity { get; init; }
-    //     public DateTime DateAdded { get; init; }
-    // }
 
     // c. Generic Inventory Logger
     public class InventoryLogger<T> where T : IInventoryEntity
